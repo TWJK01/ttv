@@ -85,8 +85,6 @@ https://abc.com/stream?uri=college-baseball/7494/7494-7494-7494
 https://abc.com/stream?uri=college-baseball/3679/3679-3679-3679
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/652e6367ae9b198bddd25bc78e1ba307-thumbnail.jpg" group-title="Baseball",Michigan Wolverines vs. Oregon State Beavers
 https://abc.com/stream?uri=college-baseball/4796/4796-4796-4796
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/da16d75603c6f4928cf06b22f2616f54-thumbnail.jpg" group-title="Baseball",Kentucky Wildcats vs. UNC Greensboro Spartans
-https://abc.com/stream?uri=college-baseball/5101/5101-5101-5101
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3250e45e3b7bca173a362d37cd44e50a-thumbnail.jpg" group-title="Baseball",Army Black Knights vs. Clemson Tigers
 https://abc.com/stream?uri=college-baseball/6723/6723-6723-6723
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/fd1ca8db34ef98c8347407f6b118e21e-thumbnail.jpg" group-title="Baseball",Nicholls Colonels vs. Tennessee Volunteers
@@ -113,10 +111,6 @@ https://abc.com/stream?uri=college-baseball/7902/7902-7902-7902
 https://abc.com/stream?uri=college-baseball/6836/6836-6836-6836
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d82394ac4c7f0df3968806b776a92c8c-thumbnail.jpg" group-title="Baseball",Arizona Wildcats vs. Stanford Cardinal
 https://abc.com/stream?uri=college-baseball/8953/8953-8953-8953
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/a015c8c826a8aeafc6d800292693d252-thumbnail.jpg" group-title="Basketball",Milwaukee Bucks vs. Oklahoma City Thunder
-https://abc.com/stream?uri=nba/2026-02-12/mil-okc
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2a1e858cf3f66c06654c299bef72bea0-thumbnail.jpg" group-title="Basketball",Portland Trail Blazers vs. Utah Jazz
-https://abc.com/stream?uri=nba/2026-02-12/por-utah
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/fdb799fee1978eadd5793ba9bf98505d-thumbnail.jpg" group-title="Basketball",Dallas Mavericks vs. Los Angeles Lakers
 https://abc.com/stream?uri=nba/2026-02-12/dal-lal
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/20419b63ad3a7326eff38188058eb52d-thumbnail.jpg" group-title="Combat Sports",OKTAGON 84 (English)
@@ -219,8 +213,6 @@ https://abc.com/stream?uri=seriea/2026-02-16/cag-lec
 https://abc.com/stream?uri=laliga/2026-02-16/gir-bar
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/eafbe8b7240e00eec640bb7370e5166d-thumbnail.jpg" group-title="Motorsports",Pre-Season Testing - Day 3
 https://abc.com/stream?uri=f1/2026/pre-season-testing-1/fp3
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="Wrestling",TNA: Impact
-https://abc.com/stream?uri=tna/impact/2026-02-12
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling",WWE: Friday Night Smackdown
 https://abc.com/stream?uri=wwe/smackdown/2026-02-13
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",AEW: Saturday Night Collision
