@@ -13,8 +13,6 @@ https://abc.com/stream?uri=mlb/20260216/ari-col-3756
 https://abc.com/stream?uri=mlb/20260216/sd-sea-7626
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/36c0f6728c35319de67e24f64142acc7-thumbnail.jpg" group-title="Darts",Premier League Darts: Night 3
 https://abc.com/stream?uri=premier-league-darts-night-3
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/effe76d1da950d61688c2db9271133f0-thumbnail.jpg" group-title="Football",Levante vs. Villarreal
-https://abc.com/stream?uri=laliga/2026-02-18/lev-vil
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/a583257ace5ab5b990634d3a411794e2-thumbnail.jpg" group-title="Football",AC Milan vs. Como
 https://abc.com/stream?uri=seriea/2026-02-18/mil-como
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/cb25a309401af9193697ac064e9951aa-thumbnail.jpg" group-title="Football",Wolverhampton Wanderers vs. Arsenal
