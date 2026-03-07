@@ -31,8 +31,6 @@ https://pooembed.eu/embed/mlb/2026-03-07/gbr-usa-4722
 https://pooembed.eu/embed/mlb/2026-03-07/col-lad-2617
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/a504c89475974339c9ba5d89f0f1a577-thumbnail.jpg" group-title="Baseball",Chinese Taipei vs. Korea
 https://pooembed.eu/embed/mlb/2026-03-07/tpe-kor-5380
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/dfdf7d7230818b225f47ee05a0ef386c-thumbnail.jpg" group-title="Basketball",UConn Huskies vs. Marquette Golden Eagles (Basketball)
-https://pooembed.eu/embed/cbb/2995/2995-marq
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c47f447c92c4de0adec501b912f8877b-thumbnail.jpg" group-title="Basketball",Arizona State Sun Devils vs. Iowa State Cyclones (Basketball)
 https://pooembed.eu/embed/cbb/7011/7011-isu
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2bd08bd20e8af1294804f4722e6a8142-thumbnail.jpg" group-title="Basketball",Kansas State Wildcats vs. Kansas Jayhawks (Basketball)
@@ -169,8 +167,6 @@ https://pooembed.eu/embed/nhl/2026-03-07/car-cgy
 https://pooembed.eu/embed/nhl/2026-03-07/nyi-sj
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/39a10f6019a8a707cfddbf2c7cda518a-thumbnail.jpg" group-title="Ice Hockey",Ottawa Senators vs. Seattle Kraken
 https://pooembed.eu/embed/nhl/2026-03-07/ott-sea
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ed94a73bc7464c265b131ce0d368a6d1-thumbnail.jpg" group-title="Motorsports",YPF MXGP of Argentina
-https://pooembed.eu/embed/ypf-mxgp-of-argentina
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Supercross: Indianapolis
 https://pooembed.eu/embed/smx-wk9
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/37e91f412909452e3a12e037ec80f272-thumbnail.jpg" group-title="Motorsports",Australian Grand Prix - Race
