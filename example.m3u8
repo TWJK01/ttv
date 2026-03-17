@@ -5,8 +5,8 @@ https://pooembed.eu/embed/east-vs-west-23
 https://pooembed.eu/embed/mlb/2026-03-17/sea-col-7438
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/297c7e1d6bbcf9225e065abc44cafaec-thumbnail.jpg" group-title="Baseball",San Diego Padres vs. Seattle Mariners
 https://pooembed.eu/embed/mlb/2026-03-17/sd-sea-9264
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6faf6aed52977755cd70e886ac16c9ea-thumbnail.jpg" group-title="Baseball",USA/VEN vs. ITA/VEN/USA
-https://pooembed.eu/embed/mlb/2026-03-17/usa/ven-ita/ven/usa-4089
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d9893ab22ae4e972594fa3fe16637b84-thumbnail.jpg" group-title="Baseball",Venezuela vs. United States
+https://pooembed.eu/embed/mlb/2026-03-17/ven-usa-7989
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/1adce66cda0cfbb912ce08413adae56d-thumbnail.jpg" group-title="Baseball",Cleveland Guardians vs. Cincinnati Reds
 https://pooembed.eu/embed/mlb/2026-03-17/cle-cin-1401
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e5d28ba2a9777e6ce0e75a3e77f4307d-thumbnail.jpg" group-title="Baseball",Los Angeles Dodgers vs. Kansas City Royals
@@ -33,12 +33,6 @@ https://pooembed.eu/embed/nba/2026-03-17/phi-den
 https://pooembed.eu/embed/nba/2026-03-17/sa-sac
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9495bb8da4657a7abea8bacb2a43b50b-thumbnail.jpg" group-title="Football",The Golazo Show
 https://pooembed.eu/embed/golazo
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b97d1c7b44be9f9daf4f68eb6e335c8a-thumbnail.jpg" group-title="Football",Chelsea vs. Paris
-https://pooembed.eu/embed/ucl/2026-03-17/che-psg
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/fe58fceb57e5f6f032e4725ad8e20940-thumbnail.jpg" group-title="Football",Man City vs. Real Madrid
-https://pooembed.eu/embed/ucl/2026-03-17/mci-rma
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/019bbbfe81ed3361a02a972d2891d2af-thumbnail.jpg" group-title="Football",Arsenal vs. Leverkusen
-https://pooembed.eu/embed/ucl/2026-03-17/ars-lev
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2342e70a2b00edca22d97999df528975-thumbnail.jpg" group-title="Football",Braga vs. Ferencváros
 https://pooembed.eu/embed/uel/2026-03-18/bra-fer
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ebd6624e13beae4a51b8c2eb78e424f6-thumbnail.jpg" group-title="Football",Barcelona vs. Newcastle
