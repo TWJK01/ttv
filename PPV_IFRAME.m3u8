@@ -1,20 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0bf72a1ff8abaa358cd411fbb76442c7-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://pooembed.eu/embed/east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/1c58a88b0177e70359bb4f60ba05e1f0-thumbnail.jpg" group-title="Basketball",Toronto Raptors vs. Chicago Bulls
-https://pooembed.eu/embed/nba/2026-03-18/tor-chi
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ec3c0d624003d8a6c8e56904405a08e3-thumbnail.jpg" group-title="Basketball",Utah Jazz vs. Minnesota Timberwolves
-https://pooembed.eu/embed/nba/2026-03-18/utah-min
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0d1ff06b62f6619837b51285bb005974-thumbnail.jpg" group-title="Basketball",LA Clippers vs. New Orleans Pelicans
-https://pooembed.eu/embed/nba/2026-03-18/lac-no
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0d7e7af76a70123d13b9e845f84a97f9-thumbnail.jpg" group-title="Basketball",Atlanta Hawks vs. Dallas Mavericks
-https://pooembed.eu/embed/nba/2026-03-18/atl-dal
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3e760184623bd43d0f862505a624942e-thumbnail.jpg" group-title="Basketball",Denver Nuggets vs. Memphis Grizzlies
-https://pooembed.eu/embed/nba/2026-03-18/den-mem
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3cc4e172ce918a1071c98bc16739b198-thumbnail.jpg" group-title="Basketball",Miami (OH) RedHawks vs. SMU Mustangs (Basketball)
-https://pooembed.eu/embed/march-madness/7721/7721-m-oh
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/1253d6b1aee691d15afbde4c83f966ae-thumbnail.jpg" group-title="Basketball",Los Angeles Lakers vs. Houston Rockets
-https://pooembed.eu/embed/nba/2026-03-18/lal-hou
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/119150b3177afab3369f9de10eccd52b-thumbnail.jpg" group-title="Basketball",TCU Horned Frogs vs. Ohio State Buckeyes (Basketball)
 https://pooembed.eu/embed/march-madness/3928/3928-tcu
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8612cf65339911e0746fddaa29d03685-thumbnail.jpg" group-title="Basketball",Troy Trojans vs. Nebraska Cornhuskers (Basketball)
@@ -201,10 +187,6 @@ https://pooembed.eu/embed/laliga/2026-03-22/rma-atm
 https://pooembed.eu/embed/mls/2026-03-22/por-la
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0298e1f075e4fc8ca7b9d2ed6be12795-thumbnail.jpg" group-title="Football",San Diego FC vs. Real Salt Lake
 https://pooembed.eu/embed/mls/2026-03-22/sd-rsl
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/63f96405d4f70cb22f41d5e88936f5cf-thumbnail.jpg" group-title="Ice Hockey",Dallas Stars vs. Colorado Avalanche
-https://pooembed.eu/embed/nhl/2026-03-18/dal-col
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5d4a3cd2bece57888d95f85d3b6f1066-thumbnail.jpg" group-title="Ice Hockey",St. Louis Blues vs. Calgary Flames
-https://pooembed.eu/embed/nhl/2026-03-18/stl-cgy
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c51537c3ac5dc6bc90c6b4772d627f65-thumbnail.jpg" group-title="Ice Hockey",Philadelphia Flyers vs. Anaheim Ducks
 https://pooembed.eu/embed/nhl/2026-03-18/phi-ana
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/06219a5ae0c0d20e9196fcbe14d88f61-thumbnail.jpg" group-title="Motorsports",Japanese Grand Prix - Practice 1
@@ -217,8 +199,6 @@ https://pooembed.eu/embed/f1/2026/japan/fp3
 https://pooembed.eu/embed/f1/2026/japan/qualifying
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8e6c8caa143891d9837ae5f90815ed0f-thumbnail.jpg" group-title="Motorsports",Japanese Grand Prix - Race
 https://pooembed.eu/embed/f1/2026/japan/race
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="Wrestling",AEW: Wednesday Night Dynamite
-https://pooembed.eu/embed/aew/dynamite/2026-03-18
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="Wrestling",TNA: Impact
 https://pooembed.eu/embed/tna/impact/2026-03-19
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling",WWE: Friday Night Smackdown
