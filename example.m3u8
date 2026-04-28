@@ -61,14 +61,14 @@ https://pooembed.eu/embed/nba/2026-04-28/phi-bos
 https://pooembed.eu/embed/nba/2026-04-28/atl-ny
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/88adc0f65964761865a0074199bd9e80-thumbnail.jpg" group-title="Basketball",Portland Trail Blazers vs. San Antonio Spurs
 https://pooembed.eu/embed/nba/2026-04-28/por-sa
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/56321773fa2620d535396249ea99e2c9-thumbnail.jpg" group-title="Combat Sports",ONE Samurai 1
+https://pooembed.eu/embed/one-samurai-1
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ab0ac545b5586ab4df85110b403b1e39-thumbnail.jpg" group-title="Combat Sports",Naoya Inoue vs. Junto Nakatani
 https://pooembed.eu/embed/naoya-inoue-vs.-junto-nakatani
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/61fe2a76d9920106c0e61996715be250-thumbnail.jpg" group-title="Combat Sports",Benavidez vs. Zurdo
 https://pooembed.eu/embed/benavidez-vs.-zurdo
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/97982fec1adef05519b059a2f3491a02-thumbnail.jpg" group-title="Cricket",Mumbai Indians vs. Sunrisers Hyderabad
 https://pooembed.eu/embed/ipl/2026-04-29/mi-srh
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",2026 Players Championship 12
-https://pooembed.eu/embed/darts/2026/players-championship-12
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b871cb8fb82b499b1348bc11440b5697-thumbnail.jpg" group-title="Football",Scunthorpe United vs. Southend United
 https://pooembed.eu/embed/national-league/2026-04-28/scu-sout
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2bca66f8945e535ae4ec1982a1606b23-thumbnail.jpg" group-title="Football",Buxton vs. Scarborough
@@ -225,6 +225,16 @@ https://pooembed.eu/embed/nhl/2026-04-28/bos-buf
 https://pooembed.eu/embed/nhl/2026-04-28/min-dal
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/70ef44bef5b3dbce8f898a1682f611f9-thumbnail.jpg" group-title="Ice Hockey",Anaheim Ducks vs. Edmonton Oilers
 https://pooembed.eu/embed/nhl/2026-04-28/ana-edm
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6740b036fa454eb4102ff40178dca46a-thumbnail.jpg" group-title="Motorsports",Miami Grand Prix - Practice 1
+https://pooembed.eu/embed/f1/2026/miami/fp1
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ddc6ac1f159677d1e156322cccc2900e-thumbnail.jpg" group-title="Motorsports",Miami Grand Prix - Sprint Qualifying
+https://pooembed.eu/embed/f1/2026/miami/sprint-q
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3dba24eace61b79d6621684efc22198f-thumbnail.jpg" group-title="Motorsports",Miami Grand Prix - Sprint
+https://pooembed.eu/embed/f1/2026/miami/sprint
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/444c4fec6f75524679609fad579f3cba-thumbnail.jpg" group-title="Motorsports",Miami Grand Prix - Qualifying
+https://pooembed.eu/embed/f1/2026/miami/qualifying
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/159f45aebeb6d51319e72ef2042f4b6e-thumbnail.jpg" group-title="Motorsports",Miami Grand Prix - Race
+https://pooembed.eu/embed/f1/2026/miami/race
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="Wrestling",WWE: NXT
 https://pooembed.eu/embed/wwe/nxt/2026-04-28
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="Wrestling",AEW: Wednesday Night Dynamite
