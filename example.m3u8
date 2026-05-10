@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ca01809ed9f1ddd3401e2c9673370422-thumbnail.jpg" group-title="American Football",Orlando Storm vs. Houston Gamblers
 https://pooembed.eu/embed/ufl/2026-05-10/orl-hou
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/a24318bb7343b207584469e543076012-thumbnail.jpg" group-title="Baseball",Chicago Cubs vs. Texas Rangers
-https://pooembed.eu/embed/mlb/2026-05-10/chc-tex
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ed371d30b8aceceb100f557b25e06316-thumbnail.jpg" group-title="Baseball",Pittsburgh Pirates vs. San Francisco Giants
 https://pooembed.eu/embed/mlb/2026-05-10/pit-sf
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/aa80002b236fd306c02d555540efda19-thumbnail.jpg" group-title="Baseball",Atlanta Braves vs. Los Angeles Dodgers
@@ -13,10 +11,6 @@ https://pooembed.eu/embed/mlb/2026-05-10/nym-ari
 https://pooembed.eu/embed/mlb/2026-05-10/stl-sd
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/90fc0c6c45cecfbe075fa71da8cb82e0-thumbnail.jpg" group-title="Baseball",Detroit Tigers vs. Kansas City Royals
 https://pooembed.eu/embed/mlb/2026-05-10/det-kc
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e244cd7c443b43a59c888679542d6835-thumbnail.jpg" group-title="Basketball",New York Knicks vs. Philadelphia 76ers
-https://pooembed.eu/embed/nba/2026-05-10/ny-phi
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0c7a2d9502800ba85e8082e9ebdd80d4-thumbnail.jpg" group-title="Basketball",New York Liberty vs. Washington Mystics
-https://pooembed.eu/embed/wnba/2026-05-10/ny-wsh
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/404efec9d88e6c688afcdabe2c591cc7-thumbnail.jpg" group-title="Basketball",Las Vegas Aces vs. Los Angeles Sparks
 https://pooembed.eu/embed/wnba/2026-05-10/lv-la
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2f143f3b9a6e9ce5e0ccedf3398cc075-thumbnail.jpg" group-title="Basketball",San Antonio Spurs vs. Minnesota Timberwolves
