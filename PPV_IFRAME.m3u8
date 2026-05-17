@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f59b0be892c1fdbeb9c70610eb1e9ed0-thumbnail.jpg" group-title="American Football",Columbus Aviators vs. Birmingham Stallions
 https://pooembed.eu/embed/ufl/2026-05-17/clb-bham
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0ab436eb216716a80710b6f2944f05a3-thumbnail.jpg" group-title="Australian Football",St Kilda vs. Richmond
-https://pooembed.eu/embed/afl/2026-05-17/stk-rich
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/eac14156a8fa55918d9d54f071d29335-thumbnail.jpg" group-title="Australian Football",West Coast Eagles vs. GWS GIANTS
 https://pooembed.eu/embed/afl/2026-05-17/wce-gws
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/07628c269d411abc34b75287ae6fc9cb-thumbnail.jpg" group-title="Baseball",Miami Marlins vs. Tampa Bay Rays
@@ -151,8 +149,6 @@ https://pooembed.eu/embed/f1/2026/canada/qualifying
 https://pooembed.eu/embed/f1/2026/canada/race
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Pro Motocross: Fox Raceway
 https://pooembed.eu/embed/smx-wk17
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ee2d91d03e2aec72e12742ae762adc4f-thumbnail.jpg" group-title="Rugby",Warriors vs. Broncos
-https://pooembed.eu/embed/nrl/2026-05-17/new-bri
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/488428472abe7e88f097cc2030477950-thumbnail.jpg" group-title="Rugby",Panthers vs. Dragons
 https://pooembed.eu/embed/nrl/2026-05-17/pen-st.
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
