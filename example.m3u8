@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e7618c3718024edccb96fad974ae0419-thumbnail.jpg" group-title="American Football",Birmingham Stallions vs. Columbus Aviators
-https://pooembed.eu/embed/ufl/2026-05-23/bham-clb
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/14c06fc8baa1c1dc0168e347b33c8ce6-thumbnail.jpg" group-title="American Football",Dallas Renegades vs. Louisville Kings
 https://pooembed.eu/embed/ufl/2026-05-24/dal-lou
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5ff50a203ce3ca30e7388d7a61ed10f0-thumbnail.jpg" group-title="American Football",St. Louis Battlehawks vs. Houston Gamblers
@@ -9,8 +7,6 @@ https://pooembed.eu/embed/ufl/2026-05-24/stl-hou
 https://pooembed.eu/embed/afl/2026-05-24/gws-bl
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5ba6dc76791ad4bc74a6ee26559900eb-thumbnail.jpg" group-title="Australian Football",Western Bulldogs vs. Narrm
 https://pooembed.eu/embed/afl/2026-05-24/wb-melb
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f655f3f92af910133495fc26707b5ebb-thumbnail.jpg" group-title="Baseball",Pittsburgh Pirates vs. Toronto Blue Jays
-https://pooembed.eu/embed/mlb/2026-05-23/pit-tor
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d26a2a6ed7878f60da4a48d0ecdcca2-thumbnail.jpg" group-title="Baseball",Cleveland Guardians vs. Philadelphia Phillies
 https://pooembed.eu/embed/mlb/2026-05-23/cle-phi
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9e587761bab8b33055d9120a871874df-thumbnail.jpg" group-title="Baseball",Detroit Tigers vs. Baltimore Orioles
@@ -51,8 +47,6 @@ https://pooembed.eu/embed/ipl/2026-05-24/kkr-dc
 https://pooembed.eu/embed/international-darts-open--day-3---afternoon
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",International Darts Open | Day 3 - Evening
 https://pooembed.eu/embed/international-darts-open--day-3---evening
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/83e1e7e0ba5abcd047bac4282d21c28e-thumbnail.jpg" group-title="Football",Minnesota United FC vs. Real Salt Lake
-https://pooembed.eu/embed/mls/2026-05-23/min-rsl
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/4879fe5367d5ede487079e00245359b3-thumbnail.jpg" group-title="Football",Charlotte FC vs. New England Revolution
 https://pooembed.eu/embed/mls/2026-05-23/clt-ne
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/71ed3673ebb5a536891d64f9a1debcf0-thumbnail.jpg" group-title="Football",D.C. United vs. CF Montréal
