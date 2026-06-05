@@ -67,18 +67,10 @@ https://funplayer.eu/embed/nba/2026-06-05/ny-sa
 https://funplayer.eu/embed/wnba/2026-06-05/dal-la
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/900b687268fb4e26bb73bdc38aea361e-thumbnail.jpg" group-title="Basketball",Phoenix Mercury vs. Portland Fire
 https://funplayer.eu/embed/wnba/2026-06-05/phx-por
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/36127ab2ce99531acc560ed7c14977ba-thumbnail.jpg" group-title="Combat Sports",ONE Friday Fights 157 & The Inner Circle
-https://funplayer.eu/embed/one-friday-fights-157--the-inner-circle
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/69a768f5687199a81420aa5f7d6221db-thumbnail.jpg" group-title="Combat Sports",OKTAGON 89: Severino VS. Zhumagulov
 https://funplayer.eu/embed/oktagon-89
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/630f3ff3526d171fc728abd342ea8da3-thumbnail.jpg" group-title="Combat Sports",UFC Fight Night: Muhammad vs. Bonfim
 https://funplayer.eu/embed/ufc-fight-night-muhammad-vs-bonfim
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/1555dc2c7108f95597bd14c9eb341e47-thumbnail.jpg" group-title="Cricket",England vs. New Zealand
-https://funplayer.eu/embed/cricket/2026-06-04/eng-nzl
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/717141099104a74489ffe4cf183c2c98-thumbnail.jpg" group-title="Football",Belarus vs. Syria
-https://funplayer.eu/embed/mens-international-friendly/2026-06-05/blr-syr
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9e2bea8f4d13dff3b81b4a502579fb54-thumbnail.jpg" group-title="Football",Georgia vs. Bahrain
-https://funplayer.eu/embed/mens-international-friendly/2026-06-05/geo-bhr
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/161090faf17c7155768521a93a2ed3a7-thumbnail.jpg" group-title="Football",Slovakia vs. Montenegro
 https://funplayer.eu/embed/mens-international-friendly/2026-06-05/svk-mne
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9f981cb3d3d0e77de787553285c49f86-thumbnail.jpg" group-title="Football",Moldova vs. Bulgaria
@@ -97,8 +89,6 @@ https://funplayer.eu/embed/mens-international-friendly/2026-06-06/hai-per
 https://funplayer.eu/embed/wc/2026-06-11/mex-rsa
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9a3b30906c29d4c6aa851819610dbcef-thumbnail.jpg" group-title="Football",South Korea vs. Czechia
 https://funplayer.eu/embed/wc/2026-06-11/kor-cze
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e86534a424dc4a31d9b0e93409f70773-thumbnail.jpg" group-title="Motorsports",Monaco Grand Prix - Practice 2
-https://funplayer.eu/embed/f1/2026/monaco/fp2
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ecca83b07fb621777f164edd1aa1f3b3-thumbnail.jpg" group-title="Motorsports",Monaco Grand Prix - Practice 3
 https://funplayer.eu/embed/f1/2026/monaco/fp3
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/31cf91a6a29df3131ca4172bf394da66-thumbnail.jpg" group-title="Motorsports",Monaco Grand Prix - Qualifying
