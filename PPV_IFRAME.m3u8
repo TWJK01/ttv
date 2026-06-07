@@ -5,16 +5,10 @@ https://embedindia.st/embed/afle/2026-06-07/alp-lon
 https://embedindia.st/embed/ufl/2026-06-07/dc-orl
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8717e27525999e5ed6156a21713446a9-thumbnail.jpg" group-title="American Football",Louisville Kings vs. St. Louis Battlehawks
 https://embedindia.st/embed/ufl/2026-06-07/lou-stl
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/182ba14c16739e2b91aa56cd88825c54-thumbnail.jpg" group-title="Australian Football",Sydney Swans vs. St Kilda
-https://embedindia.st/embed/afl/2026-06-07/syd-stk
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/38172afc67cc0de450e9cde120c5e81e-thumbnail.jpg" group-title="Australian Football",Essendon vs. Carlton
 https://embedindia.st/embed/afl/2026-06-07/ess-carl
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/73a10a40c4a972ff6cdcd72ebbd36906-thumbnail.jpg" group-title="Australian Football",Collingwood vs. Melbourne
 https://embedindia.st/embed/afl/2026-06-08/coll-melb
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/11e8f172b277a7009c2ea7ab09b88ccf-thumbnail.jpg" group-title="Baseball",Los Angeles Angels vs. Los Angeles Dodgers
-https://embedindia.st/embed/mlb/2026-06-06/laa-lad
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c55a73bd5b1f39c113dffd0f44ce17f9-thumbnail.jpg" group-title="Baseball",New York Mets vs. San Diego Padres
-https://embedindia.st/embed/mlb/2026-06-06/nym-sd
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6d76374efb31b4abaa9c45408e3f8b77-thumbnail.jpg" group-title="Baseball",Boston Red Sox vs. New York Yankees
 https://embedindia.st/embed/mlb/2026-06-07/bos-nyy
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/4bc74c4226c7d0b21f6ff441a5eb24ab-thumbnail.jpg" group-title="Baseball",Chicago White Sox vs. Philadelphia Phillies
@@ -55,10 +49,6 @@ https://embedindia.st/embed/wc/2026-06-11/mex-rsa
 https://embedindia.st/embed/wc/2026-06-11/kor-cze
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/287b881495ff145b04fd73c0b4aff7a3-thumbnail.jpg" group-title="Motorsports",Monaco Grand Prix - Race
 https://embedindia.st/embed/f1/2026/monaco/race
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/338b4ef01df197ee0ab1057e598f1e75-thumbnail.jpg" group-title="Rugby",Wests Tigers vs. Panthers
-https://embedindia.st/embed/nrl/2026-06-07/wes-pen
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9f91facb9675713ad8a6a13be67fd791-thumbnail.jpg" group-title="Rugby",Sharks vs. Dragons
-https://embedindia.st/embed/nrl/2026-06-07/cro-st.
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6c49d65ae8d4a13f0627fb2b18528064-thumbnail.jpg" group-title="Tennis",Roland-Garros: TNT Sports 1
 https://embedindia.st/embed/roland-garros-tnt-sports-1
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6c49d65ae8d4a13f0627fb2b18528064-thumbnail.jpg" group-title="Tennis",Roland-Garros: TNT Sports 4
