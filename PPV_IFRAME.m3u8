@@ -49,10 +49,6 @@ https://embedindia.st/embed/247-fox-footy
 https://embedindia.st/embed/afl/2026-09-18/syd-fre
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/adb60994c1fbe08907aaa327cf575e2d-thumbnail.jpg" group-title="Australian Football",Hawthorn vs. Brisbane Lions
 https://embedindia.st/embed/afl/2026-09-19/haw-bl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d508ecf6e7a4ce01370c6d1a5df71412-thumbnail.jpg" group-title="Baseball",Chicago White Sox vs. Cleveland Guardians
-https://embedindia.st/embed/mlb/2026-09-16/chw-cle
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/41528d1d1a4c4f5f2ee616901f2ced95-thumbnail.jpg" group-title="Baseball",San Francisco Giants vs. St. Louis Cardinals
-https://embedindia.st/embed/mlb/2026-09-16/sf-stl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/53af4d3639ad4487bbae972e24189c47-thumbnail.jpg" group-title="Baseball",New York Yankees vs. Minnesota Twins
 https://embedindia.st/embed/mlb/2026-09-16/nyy-min
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2edc37f0dcaea44f27c4e3e6f9ceb622-thumbnail.jpg" group-title="Baseball",Detroit Tigers vs. Toronto Blue Jays
@@ -83,16 +79,6 @@ https://embedindia.st/embed/mlb/2026-09-16/mia-ari
 https://embedindia.st/embed/247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",Fox Cricket
 https://embedindia.st/embed/247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f09fd2f7df341f1fdc3bbd124f5abc4e-thumbnail.jpg" group-title="Football",Ararat-Armenia vs. Sparta Prague
-https://embedindia.st/embed/uel/2026-09-16/ara-spp
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/54dd64a834a4c005ed8db5ae927c0a85-thumbnail.jpg" group-title="Football",Omonia Nicosia vs. Celta Vigo
-https://embedindia.st/embed/uel/2026-09-16/omon-cel
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/135119f1072dded015e4090d67f22a13-thumbnail.jpg" group-title="Football",Atlético Madrid vs. Osasuna
-https://embedindia.st/embed/laliga/2026-09-16/atm-osa
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/566ec4e62c97facc5524e17c13f6ecba-thumbnail.jpg" group-title="Football",Deportivo vs. Sevilla
-https://embedindia.st/embed/laliga/2026-09-16/dep-sev
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/73aaa16ea2f82048bc691e1830b23f3d-thumbnail.jpg" group-title="Football",AIK vs. Mjällby AIF
-https://embedindia.st/embed/allsvenskan/2026-09-16/aik-mja
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/80ad9ea90dc8bb8803085ace7e4de8d1-thumbnail.jpg" group-title="Football",Everton vs. Wolverhampton Wanderers
 https://embedindia.st/embed/carabao-cup/2026-09-16/eve-wol
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e0783dab15e0bd7525389332f7fcbd11-thumbnail.jpg" group-title="Football",Fleetwood Town vs. Sheffield United
@@ -339,8 +325,6 @@ https://embedindia.st/embed/liga-mx/2026-09-20/pac-tij
 https://embedindia.st/embed/liga-mx/2026-09-20/tol-san
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c4c8e407e72e7f89840bdbb745e9665d-thumbnail.jpg" group-title="Football",Querétaro vs. León
 https://embedindia.st/embed/liga-mx/2026-09-20/qro-leo
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d002690e6d7f3c29b33937c395258e87-thumbnail.jpg" group-title="Motorsports",Max vs 100
-https://embedindia.st/embed/max-vs-100-28844
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7204ceff830f53c47b5a65f714444ec1-thumbnail.jpg" group-title="Motorsports",Azerbaijan Grand Prix - Practice 1
 https://embedindia.st/embed/f1/2026/azerbaijan/fp1
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/582dcdf5962031389b61b2ccbddcec0f-thumbnail.jpg" group-title="Motorsports",Azerbaijan Grand Prix - Practice 2
