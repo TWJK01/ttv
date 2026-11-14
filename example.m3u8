@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="American Football",NFL Network
 https://taifood-blog.asia/embed/nfl-network
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c13aa2e9382735baf9be4a01a88313e6-thumbnail.jpg" group-title="American Football",Duke Blue Devils at Miami Hurricanes
-https://taifood-blog.asia/embed/cfb/2026-11-14/duke-mia
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fd12d220f18a3559b04677c817dcad9a-thumbnail.jpg" group-title="American Football",Northwestern Wildcats at Ohio State Buckeyes
-https://taifood-blog.asia/embed/cfb/2026-11-14/nu-osu
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1d29a39140b9274705a331a489fc5ec4-thumbnail.jpg" group-title="American Football",Wake Forest Demon Deacons at SMU Mustangs
-https://taifood-blog.asia/embed/cfb/2026-11-14/wake-smu
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ab755b046542a31d79415e649bbdd4c1-thumbnail.jpg" group-title="American Football",Alabama Crimson Tide at Vanderbilt Commodores
 https://taifood-blog.asia/embed/cfb/2026-11-14/ala-van
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/818b6512c84f3c9d2a766872596488fe-thumbnail.jpg" group-title="American Football",Tennessee Volunteers at Texas A&M Aggies
@@ -67,8 +61,6 @@ https://taifood-blog.asia/embed/nfl/2026-11-15/pit-cin
 https://taifood-blog.asia/embed/nfl/2026-11-16/lac-bal
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",Fox Footy
 https://taifood-blog.asia/embed/247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e5e03416c8e0d595b79fb60f7b49c40e-thumbnail.jpg" group-title="Basketball",Stonehill Skyhawks at Texas Tech Red Raiders
-https://taifood-blog.asia/embed/cbb/2026-11-14/sto-ttu
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4c55f8f2ae4d75f95e7aa91f9df270a0-thumbnail.jpg" group-title="Basketball",LSU Tigers at Gonzaga Bulldogs
 https://taifood-blog.asia/embed/cbb/2026-11-14/lsu-gonz
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5467b20c6e17a09dc8fa170ec9792bd3-thumbnail.jpg" group-title="Basketball",Denver Nuggets vs. New Orleans Pelicans
@@ -121,20 +113,6 @@ https://taifood-blog.asia/embed/polymarket-ufc-334-gane-vs-hokit-32218
 https://taifood-blog.asia/embed/247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",Fox Cricket
 https://taifood-blog.asia/embed/247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3f506f1e2b24c9d4c40080d4a588de84-thumbnail.jpg" group-title="Football",Shrewsbury Town vs. Oldham Athletic
-https://taifood-blog.asia/embed/efl-league-two/2026-11-14/shr-old
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/916e5251721d26e12ce75c29f3bd8001-thumbnail.jpg" group-title="Football",Rochdale vs. York City
-https://taifood-blog.asia/embed/efl-league-two/2026-11-14/rch-york
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9b25cc76b31461bdb5b0100002413c91-thumbnail.jpg" group-title="Football",Sheffield Wednesday vs. Plymouth Argyle
-https://taifood-blog.asia/embed/efl-league-one/2026-11-14/shw-ply
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7b22156557092f1881beb5f409c55090-thumbnail.jpg" group-title="Football",Uganda vs. Botswana
-https://taifood-blog.asia/embed/afcon-qualifying/2026-11-14/uga-bot
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/79324e14b078a394d59e27dc80c6a574-thumbnail.jpg" group-title="Football",Georgia vs. Hungary
-https://taifood-blog.asia/embed/uefa-nations-league/2026-11-14/geo-hun
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/07a334681f728044ed3055aa38b9dae3-thumbnail.jpg" group-title="Football",Norway vs. Wales
-https://taifood-blog.asia/embed/uefa-nations-league/2026-11-14/nor-wal
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/33632cfc8f88f759ab13932cad72492c-thumbnail.jpg" group-title="Football",Fleetwood Town vs. Tranmere Rovers
-https://taifood-blog.asia/embed/efl-league-two/2026-11-14/fle-trn
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f1db1a30a96a2ac945d6f0bb898bd2e7-thumbnail.jpg" group-title="Football",Algeria vs. Togo
 https://taifood-blog.asia/embed/afcon-qualifying/2026-11-14/alg-tog
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/af77c541084e89ab431b30be12933572-thumbnail.jpg" group-title="Football",Angola vs. South Sudan
@@ -159,8 +137,6 @@ https://taifood-blog.asia/embed/concacaf-nations-league/2026-11-15/jam-mex
 https://taifood-blog.asia/embed/sky-sports-golf-29059
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg" group-title="Ice Hockey",NHL Network
 https://taifood-blog.asia/embed/nhl-network-29780
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3ef20d409a74a2b8e4eeb1f8e6656472-thumbnail.jpg" group-title="Ice Hockey",Seattle Kraken vs. Carolina Hurricanes
-https://taifood-blog.asia/embed/nhl/2026-11-14/sea-car
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9d88feafab6d5a85ddef199cd1e6e4a3-thumbnail.jpg" group-title="Ice Hockey",Winnipeg Jets vs. Chicago Blackhawks
 https://taifood-blog.asia/embed/nhl/2026-11-14/wpg-chi
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b030dff112833767261469617e18bafb-thumbnail.jpg" group-title="Ice Hockey",Minnesota Wild vs. Boston Bruins
